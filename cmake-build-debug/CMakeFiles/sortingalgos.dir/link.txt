@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sortingalgos.dir/main.c.o  -o sortingalgos 
